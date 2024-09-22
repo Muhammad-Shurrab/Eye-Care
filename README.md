@@ -67,5 +67,6 @@
 ## Important Links
 ### Project Management:
 - **Trello Link**: [Trello](https://trello.com/b/xABJHBNC/eyecare)
+- - **Organization Link**: [Organization](https://github.com/Group-4-Hospital-System/Eye-Care)
 ### Design:
 - **Figma Link**: [Figma](https://www.figma.com/design/trDghzYt3Wu8RXajFUrE67/Eyecare?node-id=0-1&node-type=canvas&t=TAR1fuXROtMWBwnK-0)
